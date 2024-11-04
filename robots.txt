@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://afiwuuru.github.io/Awt/sitemap_index.txt
+Sitemap: https://afiwuuru.github.io/FGB/sitemap_index.txt
+Sitemap: https://afiwuuru.github.io/lHJ/sitemap_index.txt
+Sitemap: https://afiwuuru.github.io/sJp/sitemap_index.txt
